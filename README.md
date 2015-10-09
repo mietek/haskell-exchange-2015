@@ -1,7 +1,7 @@
 _haskell-exchange-2015_
 =======================
 
-Materials for my [Haskell eXchange 2015](https://skillsmatter.com/conferences/7069-haskell-exchange-2015) talk.
+Materials for my [Haskell eXchange 2015 talk](https://skillsmatter.com/skillscasts/6664-build-your-own-proof-assistant), including the [slides](doc/pdf/slides.pdf).
 
 See [_formal-logic_](https://github.com/mietek/formal-logic) for more formalisations.
 
